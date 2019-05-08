@@ -3,7 +3,8 @@
 .bundle
 .config
 .yardoc
-Gemfile.lock
+.idea/
+.byebug_history
 InstalledFiles
 _yardoc
 coverage
